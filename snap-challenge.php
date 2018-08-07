@@ -12,7 +12,7 @@
 		<title>Bootstrap Challenge</title>
 	</head>
 <body>
-	<header class="container border bg-primary rounded p-3 mb-2 text-dark mt-2 justify-content-center">
+	<header class="container-fluid border bg-primary rounded p-3 mb-2 text-dark">
 		<div class="row">
 			<div class="col-md-2">
 				<img class="img-fluid rounded" src="https://images.cdn2.stockunlimited.net/preview1300/cat-and-dog-forming-a-heart_1305232.jpg"
@@ -41,7 +41,7 @@
 			</div>
 		</nav>
 	</header>
-	<main class="container text-center">
+	<main class="container-fluid text-center">
 		<div class="row">
 				<div class="card col-md-3">
 					<p class="card-header">Riker!</p>
@@ -71,7 +71,17 @@
 	</main>
 	<div class="container text-center">
 		<div class="row">
-			<div class="col-md">
+			<div class="col-md-4">
+				<p>
+					Ruff pats length boy heckin angery woofer corgo sub woofer, doggorino corgo waggy wags. Wrinkler length boy much ruin diet ur givin me a spook blop puggo wow very biscit, pupperino very jealous pupper waggy wags ur givin me a spook vvv. Wow such tempt doggo many pats smol corgo h*ck long woofer borking doggo, pats doge big ol ur givin me a spook many pats heckin angery woofer. h*ck borkf. Fluffer sub woofer maximum borkdrive borking doggo he made many woofs wow such tempt, noodle horse puggorino sub woofer. Very good spot bork he made many woofs sub woofer heckin wrinkler doggorino many pats waggy wags aqua doggo, shoob woofer heckin good boys lotsa pats much ruin diet maximum borkdrive tungg woofer. Such treat woofer doing me a frighten very good spot, heckin good boys. Waggy wags ruff fluffer aqua doggo, pupper length boy.
+				</p>
+			</div>
+			<div class="col-md-4">
+				<p>
+					Ruff pats length boy heckin angery woofer corgo sub woofer, doggorino corgo waggy wags. Wrinkler length boy much ruin diet ur givin me a spook blop puggo wow very biscit, pupperino very jealous pupper waggy wags ur givin me a spook vvv. Wow such tempt doggo many pats smol corgo h*ck long woofer borking doggo, pats doge big ol ur givin me a spook many pats heckin angery woofer. h*ck borkf. Fluffer sub woofer maximum borkdrive borking doggo he made many woofs wow such tempt, noodle horse puggorino sub woofer. Very good spot bork he made many woofs sub woofer heckin wrinkler doggorino many pats waggy wags aqua doggo, shoob woofer heckin good boys lotsa pats much ruin diet maximum borkdrive tungg woofer. Such treat woofer doing me a frighten very good spot, heckin good boys. Waggy wags ruff fluffer aqua doggo, pupper length boy.
+				</p>
+			</div>
+			<div class="col-md-4">
 				<p>
 					Ruff pats length boy heckin angery woofer corgo sub woofer, doggorino corgo waggy wags. Wrinkler length boy much ruin diet ur givin me a spook blop puggo wow very biscit, pupperino very jealous pupper waggy wags ur givin me a spook vvv. Wow such tempt doggo many pats smol corgo h*ck long woofer borking doggo, pats doge big ol ur givin me a spook many pats heckin angery woofer. h*ck borkf. Fluffer sub woofer maximum borkdrive borking doggo he made many woofs wow such tempt, noodle horse puggorino sub woofer. Very good spot bork he made many woofs sub woofer heckin wrinkler doggorino many pats waggy wags aqua doggo, shoob woofer heckin good boys lotsa pats much ruin diet maximum borkdrive tungg woofer. Such treat woofer doing me a frighten very good spot, heckin good boys. Waggy wags ruff fluffer aqua doggo, pupper length boy.
 				</p>
