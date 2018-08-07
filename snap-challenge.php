@@ -19,7 +19,7 @@
 			</div>
 		</div>
 		<nav class="navbar navbar-expand-md navbar-light bg-primary">
-			<a class="navbar-brand" href="#"></a>
+			<a class="navbar-brand" href="https://images.cdn2.stockunlimited.net/preview1300/cat-and-dog-forming-a-heart_1305232.jpg"></a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
 			</button>
@@ -41,34 +41,35 @@
 			</div>
 		</nav>
 	</header>
-	<main class="container-fluid text-center">
-		<div class="row">
-				<div class="card col-md-3">
+	<div class="container-fluid">
+	<main class="card-deck text-center">
+				<div class="card">
 					<p class="card-header">Riker!</p>
 					<div class="card-body">
 						<p>aww yiss</p>
 					</div>
 				</div>
-			<div class="card col-md-3 border border-primary">
+			<div class="card border border-primary">
 				<p class="card-header">Ipsum!</p>
 				<div class="card-body">
 					<p>aww yiss</p>
 				</div>
 			</div>
-			<div class="card col-md-3 border border-danger">
+			<div class="card border border-danger">
 				<p class="card-header">Dot Dot Dot!</p>
 				<div class="card-body">
 					<p>aww yiss</p>
 				</div>
 			</div>
-			<div class="card col-md-3 border border-warning">
+			<div class="card border border-warning">
 				<p class="card-header">Heart!</p>
 				<div class="card-body">
 					<p>aww yiss</p>
 				</div>
 			</div>
-		</div>
+
 	</main>
+	</div>
 	<div class="container text-center">
 		<div class="row">
 			<div class="col-md-4">
